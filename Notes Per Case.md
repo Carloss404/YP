@@ -59,7 +59,9 @@ Other Tracking:
 - Conversion Goal created in Google Ads:  https://prnt.sc/byjrtPwNzoGA
 - The "Email Click" tag was fired in Preview Mode: https://prnt.sc/guqkSGN0cy6i
 - "click to email" conversion added to Skai conversion columns.
-=======
+
+---
+
 Profile Name: Canadian Car Care
 
 Profile ID: 5148
@@ -208,12 +210,10 @@ Call Tracking:
 - The website (https://www.ballamplumbing.ca/water-heaters) uses the HTTPS protocol, which is secure. Therefore, a JSRW was created with the tracking parameter ?_vsrefdom=ballam-plumbing and properly configured.
 - We checked the GTM container with ID: WMDNTQ35 and the Marchex tag was properly set up with all 3 triggers.
 - GTM Script was found installed on the website (https://www.ballamplumbing.ca/water-heaters).
->>>>>>> ab8e4642ea7ffe7c412684be172b3b5b2525f64b
 
 ---
 
 Notes: 
-<<<<<<< HEAD
 - Hi team, pls be so kind to help me add call tracking. Thank you in advance!
 - Hi team, pls be so kind to help me add form tracking. Thank you in advance!
 
@@ -316,7 +316,9 @@ Form Tracking:
 - GTM container was created with ID: K5WJHJRD and the Form Submission tag was configured: https://prnt.sc/8wpAdG-UA5a1
 - Form Submission goal already created in Google Ads.
 - Form Submission was already configured in Skai conversion columns.
-=======
+
+---
+Notes:
 - Hi team, pls be so kind to help me TB form tracking. Thank you in advance!
 - Hi team, pls be so kind to help me add call tracking. Thank you in advance!
 
