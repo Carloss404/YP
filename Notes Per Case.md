@@ -416,3 +416,159 @@ Form Tracking:
 
 ---
 
+Notes: Hey team! This account already has call tracking; however, now we have a new LP. Could you please double check if everything is set as it should? Thanks in advance for the support!
+
+Profile Name: R Obinsons Ida
+
+Profile ID: 17760
+Merchant ID: 2673531
+Asset ID: CAMS_905d03ee-44b3-4b5c-99cf-ca8ee3461cdb
+BTN: 905-826-1115
+CTN:​​ 905-581-4288
+
+CID: 919-119-3335
+JSRW: robinsons-ida-pharmacy
+GTM-N3HFRL4X
+URL: [https://www.robinsonsida-pharmacy.ca/](https://www.robinsonsida-pharmacy.ca/)
+
+#CMUPDATE
+caragon
+Call Tracking:
+- Call tracking setup is properly configured in Marchex and Skai, but no data has been recorded in the last 30 days, therefore, the Signal Enhancement configuration in Skai shows an error.
+- The website is properly configured with the CTN (905-581-4288)
+- The goal in Google Ads is not set up, since we couldn't set it up from Skai. We recommend contacting Skai support so the call-tracking goal can be properly set up in Google Ads.
+
+---
+
+Notes: Hi team! We are redirecting the ads to a new website hosted by YP. Could you please install the GTM code and confirm that call and form tracking are working properly? Thanks :)
+
+Profile Name: Resilience Counselling & Wellness
+
+Profile ID: 17944
+Merchant ID: 104498559
+Asset ID: CAMS_561935c3-01c1-4964-9c7c-c85dd1866fab
+BTN: 613-342-7871
+CTN:​​ 613-209-0853
+
+CID: 2575033782
+JSRW: ​resilience-counselling-wellness	
+GTM-5KDGNL37
+URL: [https://www.resiliencecounsellingwellness.com/contact-us](https://www.resiliencecounsellingwellness.com/contact-us)
+
+#CMUPDATE  
+Call Tracking:
+- GTM Script (5KDGNL37) was installed on the website (https://www.resiliencecounsellingwellness.com).
+- We checked the JSRW with tracking parameter ?_vsrefdom=resilience-counselling-wellness; it was properly configured, and the BTN (613-342-7871) was changed to the CTN (613-209-0853).
+- Signal Enhancement was showing an error in Skai since there hasn't been any activity in the last 30 days, but when a new activity is recorded, it will be fixed.
+- Form Submission Tag was properly fired in preview mode: https://prnt.sc/zezipVv0JtGa
+
+---
+
+Notes: 
+- Hello, please add call tracking, thank you!
+- Hello, please add form tracking thank you!
+
+Profile Name: Fort Rouge Glass
+
+Profile ID: 18064
+Merchant ID: 102421127
+Asset ID: CAMS_8f7caf20-3993-4bac-a89a-3b0d4e0e3178
+BTN: 204-475-2775
+CTN:​​ 204-809-4063
+
+CID: 2590329484
+JSRW: ​fort-rouge-glass	
+GTM-KB337K7Q
+URL: [https://frg.ca/](https://frg.ca/)
+
+#CMUPDATE  
+Call Tracking:
+- The GTM Script was not found installed on the website (https://frg.ca/) and we couldn't install it because it's not a YP Website.  
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=KB337K7Q
+- The GTM container was created with ID: KB337K7Q and the Marchex tag was properly set up with all 3 triggers.
+- Based on the targeted location, a Local CTN (204-809-4063) was procured, configured, imported, and forwarded to BTN (204-475-2775) on Marchex and Skai.
+- The website (https://frg.ca/) uses the HTTPS protocol, which is secure. Therefore, a JSRW was created with the tracking parameter ?_vsrefdom=fort-rouge-glass and properly configured.
+
+#CMUPDATE  
+Form Tracking:
+- The GTM Script was not found installed on the website (https://frg.ca/) and we couldn't install it because it's not a YP Website.  
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=KB337K7Q
+- Conversion Goal created in Google Ads: https://prnt.sc/1nT-fX0qUVfq
+- Form Submission Tag created in Google Tag Manager: https://prnt.sc/9RrdCcY3fcs9
+- Form Submission Goal was configured in Skai conversion columns
+- Unable to configure the call tracking goal in Google Ads, since the signal enhancement from Skai won't work. We recommend contacting Skai support to create a ticket so the call-tracking goal can be properly set up in Google Ads.
+
+---
+
+Notes: 
+- Hi team! can you help me troubleshooting call tracking for this account please? (Non YP Website) The conversion goal for kenshoo calls is showing inactive status. however client already installed the GTM Code GTM-W3S2LMGQ on their website. Thanks in advance
+- Hi team! can you help me troubleshooting Form tracking for this account please? (Non YP Website) The conversion goal for Form Submission is showing inactive status. however client already installed the GTM Code GTM-W3S2LMGQ on their website. Thanks in advance
+
+Profile Name: TMG The Mortgage Group - Ray Nickerson - Mortgage Agent
+
+Profile ID: 17896
+Merchant ID: 7776737
+Asset ID: CAMS_7518d0ad-8811-4259-97b1-4a45cf744945
+BTN: 226-663-6069
+CTN:​​ 226-270-1166
+
+CID: 574-082-1086
+JSRW: ​london-mortgage-solutions	
+GTM-W3S2LMGQ
+URL: [https://www.londonmortgagesolutions.ca/?_vsrefdom=london-mortgage-solutions](https://www.londonmortgagesolutions.ca/?_vsrefdom=london-mortgage-solutions)
+
+#CMUPDATE  
+Call Tracking:
+- Checked the CTN (226-270-1166) on both Marchex and Kenshoo, and it was properly configured, imported and forwarding to BTN (226-663-6069).
+- We checked the JSRW with tracking parameter ?_vsrefdom=london-mortgage-solutions; it was properly configured, and the BTN (226-663-6069) was changed to the CTN (226-270-1166).
+- The Kenshoo_Calls conversion was properly configured, however, no activity has been recorded in the last 30 days, once activity is recorded the goal will be fixed.
+
+#CMUPDATE  
+Form Tracking:
+- We updated the trigger configuration in GTM, and when in preview mode, the Form Submission tag was fired correctly: https://prnt.sc/Nrt0SfFvvsTm
+- The conversion goal is properly configured in Skai conversion columns.
+
+---
+
+Notes: Can you please enable the new conversion goal for email click? Thanks!
+
+Profile Name: Hadford Defence Group
+
+Profile ID: 18018
+Merchant ID: 104595788
+Asset ID: CAMS_aa7b2647-4ab1-4a4e-b1b2-9dece30bd3fa
+BTN: 403-380-1999
+
+CID: 5595760984
+GTM-5Z4FVKHJ
+URL: [https://www.shdg.ca/](https://www.shdg.ca/)
+
+#CMUPDATE
+Other Tracking:
+- Conversion Goal created in Google Ads: https://prnt.sc/4XeDnowNvRdw
+- The Email Click tag was fired in Preview Mode: https://prnt.sc/aBVOnoYJXKX8
+- The conversion goal was added to the Skai conversion columns
+
+---
+
+Notes: Can you please enable the new conversion goal for email click? Thanks!
+
+Profile Name: Hadford Defence Group
+
+Profile ID: 16156
+Merchant ID: 102350390
+Asset ID: CAMS_2cf34605-8828-4c31-9dd2-6df33d0c3b83
+BTN: 844-380-1999
+
+CID: 343-414-7305
+GTM-5Z4FVKHJ
+URL: [https://www.shdg.ca/?_vsrefdom=shdg](https://www.shdg.ca/?_vsrefdom=shdg)
+
+#CMUPDATE
+Form Tracking:
+- Conversion Goal created in Google Ads: https://prnt.sc/P3FkLJZYlNjK
+- The Email Click tag was fired in Preview Mode: https://prnt.sc/nSNzB37ewS-x
+- The conversion goal was configured in the Skai conversion columns
+
+---
+
