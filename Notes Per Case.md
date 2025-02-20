@@ -395,3 +395,24 @@ Call Tracking:
 
 ---
 
+Notes: hi team, please your help ts the custom conversion goals
+
+Profile Name: Peninsula Towing
+
+Profile ID: 13380
+Merchant ID: 6134378
+Asset ID: CAMS_3032f209-541d-4bb5-bf3b-7a15aa8eca90
+BTN: 250-656-6911
+
+CID: 3523010420
+GTM-MCRXZ33
+URL: [https://www.peninsulatowing.ca/](https://www.peninsulatowing.ca/)
+
+#CMUPDATE
+Form Tracking:
+- We were only able to access the GTM tag (MCRXZ33) for the website: https://www.peninsulatowing.ca/
+- We found the GTM script ID (P8ZGVGXZ) installed on the website (https://www.victoriatowing.ca) but we don't have access to that script ID, only the script ID (P6LF7FN) but this wasn't installed on the website.
+- We did a test, and the Goals were fired in preview mode: https://prnt.sc/W-6ye1se-aGj
+
+---
+
