@@ -1,3 +1,37 @@
+## Form Tracking Notes Template
+
+Profile Name: 
+
+Profile ID: 
+Merchant ID: 
+Asset ID: 
+BTN: 
+
+CID: 
+GTM-
+URL: 
+
+#CMUPDATE
+Form Tracking: 
+
+---
+
+## Form Tracking Notes Template (Remarketing)
+
+Profile Name:  
+
+Profile ID:  
+Asset ID:  
+
+CID:  
+GTM-  
+URL:  
+
+#CMUPDATE  
+Remarketing:  
+
+---
+
 - GTM container was created with ID: AAAA and the Form Submission tag was configured.
 
 - We checked the GTM Script with ID: XXXXX and created the Form Submission Tag.
@@ -61,37 +95,3 @@
 - The Form Submit tag was fired in Preview Mode:  
 
 - Conversion Goal is working fine:
-
----
-
-## Form Tracking Notes Template
-
-Profile Name: 
-
-Profile ID: 
-Merchant ID: 
-Asset ID: 
-BTN: 
-
-CID: 
-GTM-
-URL: 
-
-#CMUPDATE
-Form Tracking: 
-
----
-
-## Form Tracking Notes Template (Remarketing)
-
-Profile Name:  
-
-Profile ID:  
-Asset ID:  
-
-CID:  
-GTM-  
-URL:  
-
-#CMUPDATE  
-Remarketing:  

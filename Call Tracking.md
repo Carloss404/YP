@@ -1,3 +1,23 @@
+## Call Tracking Notes Template
+
+Profile Name: 
+
+Profile ID: 
+Merchant ID: 
+Asset ID: 
+BTN: 
+CTN:​​ 
+
+CID: 
+JSRW: 
+GTM-
+URL: 
+
+#CMUPDATE 
+Call Tracking: 
+
+---
+
 - Based on the targeted location, a Local CTN () was procured, configured, imported, and forwarded to BTN () on Marchex and Skai.
 
 - Based on the targeted location, a Toll-Free CTN () was procured, configured, and forwarded to BTN () on both Marchex and Skai.
@@ -53,26 +73,6 @@
 ```js
 !AL & !AK & !AZ & !AR & !CA & !CO & !CT & !DE & !DC & !FL & !GA & !HI & !ID & !IL & !IN & !IA & !KS & !KY & !LA & !ME & !MD & !MA & !MI & !MN & !MS & !MO & !MT & !NE & !NV & !NH & !NJ & !NM & !NY & !NC & !ND & !OH & !OK & !OR & !PA & !RI & !SC & !SD & !TN & !TX & !UT & !VT& !VA & !WA & !WV & !WI & !WY
 ```
-
----
-
-## Call Tracking Notes Template
-
-Profile Name: 
-
-Profile ID: 
-Merchant ID: 
-Asset ID: 
-BTN: 
-CTN:​​ 
-
-CID: 
-JSRW: 
-GTM-
-URL: 
-
-#CMUPDATE 
-Call Tracking: 
 
 ---
 
