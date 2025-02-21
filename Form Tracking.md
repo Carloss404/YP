@@ -95,3 +95,5 @@ Remarketing:
 - The Form Submit tag was fired in Preview Mode:  
 
 - Conversion Goal is working fine:
+
+- The GTM Script ID (KB27J87R) was properly installed on the website.

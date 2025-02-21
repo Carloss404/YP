@@ -572,3 +572,50 @@ Form Tracking:
 
 ---
 
+Notes: Hello team, please add call tracking, Thanks!
+
+Profile Name: Auto Marine Specialties
+
+Profile ID: 8308
+Merchant ID: 7512514
+Asset ID: CAMS_af2c8bd7-5869-453c-ae0b-94850728f86c
+BTN: 403-287-2120
+CTN:​​ 403-668-2993
+
+CID: 5909459216
+JSRW: ​auto-marine	
+GTM-MFJXQC4
+URL: [https://www.automarine.ca/](https://www.automarine.ca/)
+
+#CMUPDATE 
+Call Tracking: 
+- Based on the targeted location, a Local CTN (403-668-2993) was procured, configured, imported, and forwarded to BTN (403-287-2120) on Marchex and Skai.
+- The website (https://www.automarine.ca/) uses the HTTPS protocol, which is secure. Therefore, a JSRW was created with the tracking parameter ?_vsrefdom=auto-marine and properly configured.
+- GTM Script was found installed on the website (https://www.automarine.ca/).
+- The Kenshoo_Calls conversion goal was correctly added and configured in Google Ads.
+
+---
+
+Notes: Hi team, pls be so kind to help me add form tracking. Thank you in advance!
+
+Profile Name: Vanwees Mostly Roses
+
+Profile ID: 15750
+Merchant ID: 5134726
+Asset ID: CAMS_c33d7929-033a-49e8-9c1c-77087b42e37e
+BTN: 519-537-5564
+
+CID: 450-258-3699
+GTM-KB27J87R
+URL: [https://www.mostlyrosesflorist.ca/](https://www.mostlyrosesflorist.ca/)
+
+#CMUPDATE
+Form Tracking: 
+- GTM container was created with ID: KB27J87R and the Form Submission tag was configured.
+- The GTM Script ID (KB27J87R) was properly installed on the website.
+- Conversion Goal created in Google Ads: https://prnt.sc/72pyXheL1Fw9
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/CGrnPE49o5WG
+- Conversion Goal was added to Skai conversion columns.
+
+---
+
