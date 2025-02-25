@@ -640,7 +640,6 @@ Call Tracking:
 - US Calls are being blocked.
 - The website (https://www.zextoronto.com) uses the HTTPS protocol, which is secure. Therefore, a JSRW was created with the tracking parameter ?_vsrefdom=zex-toronto-pmax and properly configured.
 - Checked the GTM container with ID: KQKQFMV and the Marchex tag didn't have the best naming convention, therefore, it was changed from 'Custom HTML' to 'Marchex - JSRW'.
-- Previous CTN wasn't swapping on the website, checked the current JSRW configuration, checked the JSRW was added to GTM as a custom HTML tag, and ensured the GTM script was properly installed on the website. Created a ticket for Marchex support to report this issue and get further assistance.
 
 ---
 
@@ -685,4 +684,126 @@ Form Tracking:
 - Configured conversion goal in Skai conversion columns.
 
 ---
+
+#CMUPDATE 
+Call Tracking:
+- We did some tests, and the CTN was properly swapping from BTN (204-797-8656) to CTN (​204-809-4077) on the website: https://prnt.sc/ljJvcFf5wepm
+
+Account: Meunier Carrier Lawyers
+#CMUPDATE 
+Call Tracking:
+- We did some tests, and the CTN was properly swapping from BTN (​705-531-5500) to CTN (​855-212-0400) on the website: https://prnt.sc/h0mjNJ7z6FZC
+
+Account: Indus Automation Inc
+#CMUPDATE 
+Call Tracking:
+- We did some tests, and the CTN was properly swapping from BTN (204-943-0050​) to CTN (866-574-0710​) on the website: https://prnt.sc/u3ZMFYVTF6BQ
+
+---
+
+**Notes:** Hi team! can you help me Troubleshoot from tracking to this account, please? (YP Website) It has needs attention status since last year.
+
+**Profile Name:** Canadian Industrial Hydraulics Ltd
+
+**Profile ID:** 16271
+**Merchant ID:** 8153644
+**Asset ID:** CAMS_a671d27b-6e80-4ea4-9913-e403615e93b5
+**BTN (Business Tracking Number):** 780-465-1133
+
+**CID (Customer ID):** 953-725-4813
+**GTM Container ID:** GTM-K8LNGZM
+**URL:** [https://www.cih.ca/contact-us](https://www.cih.ca/contact-us)
+
+#CMUPDATE 
+Call Tracking:
+- GTM Script with ID: (K8LNGZM) was not found installed on the website but we were able to install it since it's a YP website.
+- Checked GTM Script with ID: K8LNGZM and the Form Submission Tag was already created.
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/zwhNT7pxsXRs  
+- Form Submission Goal status was updated: https://prnt.sc/vU-uqSZ9Xz_J
+
+---
+
+**Notes:** Hi team, pls be so kind to help me TB form tracking. Thank you in advance! It has a need attention status
+
+**Profile Name:** Claxton Denture Clinic
+
+**Profile ID:** 13715
+**Merchant ID:** 7912399
+**Asset ID:** 1-7605887714
+**BTN (Business Tracking Number):** 519-925-9511
+
+**CID (Customer ID):** 501-139-8066
+**GTM Container ID:** GTM-5SQW5KVL
+**URL:** [https://www.claxtondentureclinic.com/contact-us](https://www.claxtondentureclinic.com/contact-us)
+
+#CMUPDATE 
+Form Tracking:
+- GTM Script was found properly installed on the website.
+- Checked GTM Script with ID: 5SQW5KVL and the Form Submission Tag was already created.
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/U3x0_z8CKyPV
+- Form Submission Goal status was updated: https://prnt.sc/uLPvbb4rgRoa
+
+---
+
+**Notes:** Hi team, pls be so kind to help me TB form tracking. Thank you in advance! It has a need attention status
+
+**Profile Name:** Hubley's Plumbing Ltd
+
+**Profile ID:** 12251
+**Merchant ID:** 4169436
+**Asset ID:** 1-7164781387
+**BTN (Business Tracking Number):** 709-726-2552
+
+**CID (Customer ID):** 467-994-3288
+**GTM Container ID:** GTM-NMC2ZPX
+**URL:** [https://www.hubleysplumbing.ca/contact-us](https://www.hubleysplumbing.ca/contact-us)
+
+#CMUPDATE 
+Form Tracking:
+- GTM Script was found installed on the website.
+- Checked GTM script with ID: NMC2ZPX and updated the Form Submission Tag.
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/UmOYxtr1nEJQ
+- Form Submission Goal status was updated: https://prnt.sc/iWfXXoMiczK2
+
+---
+
+**Notes:** Hi Team! Please help me to review the click to email (Email_Click_Midnapore) the tag is inactive.
+
+**Profile Name:** Speedy Apollo
+
+**Profile ID:** 13495
+**Merchant ID:** 6720407
+**Asset ID:** CAMS_e38fe71e-d1be-430a-8522-78093cdcafe5
+**BTN (Business Tracking Number):** 403-256-8040
+
+**CID (Customer ID):** 5367175331
+**GTM Container ID:** GTM-PBHDH4R
+**URL:** [https://www.speedyapollo.ca/services/oil-changes?_vsrefdom=speedy-apollo](https://www.speedyapollo.ca/services/oil-changes?_vsrefdom=speedy-apollo)
+
+#CMUPDATE 
+Other Tracking:
+- The "Email Click - Midnapore" tag was fired in preview mode: https://prnt.sc/4kvbftWmcLCK
+- Conversion goal status was updated in Google Ads: https://prnt.sc/i2AIDATlAahV
+
+---
+
+**Notes:** Hi team, pls be so kind to help me add from tracking. Thank you in advance!
+
+**Profile Name:** Polar Vision Centre
+
+**Profile ID:** 18073
+**Merchant ID:** 1248398
+**Asset ID:** CAMS_d6ba0921-64c6-4279-9a78-906e6257a13b
+**BTN (Business Tracking Number):** 867-920-4500
+
+**CID (Customer ID):** 219-623-6221
+**GTM Container ID:** GTM-PJDT5MQ
+**URL:** [https://www.polarvision.ca/contact-us](https://www.polarvision.ca/contact-us)
+
+#CMUPDATE 
+Form Tracking:
+- The GTM Script ID (PJDT5MQ) was properly installed on the website.
+- Checked GTM Script with ID: PJDT5MQ and created the Form Submission Tag. The trigger on GTM was set with the "lead" event as per YP Guidelines for Wix sites.  
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/paqIwURXNnJM
+- Conversion Goal created in Google Ads: https://prnt.sc/3tCLvgwcuRFP 
 

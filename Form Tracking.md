@@ -15,6 +15,9 @@
 **GTM Container ID:** 
 **URL:** 
 
+#CMUPDATE 
+Form Tracking:
+
 ---
 
 ### **Form Tracking Configuration**
@@ -28,7 +31,8 @@
 - GTM Script was installed on the website (`URL`).  
 - GTM Script was found installed on the website (`URL`).  
 - GTM Script was not installed on the website (`URL`) because it's not from YP.  
-- GTM Script was not found installed on the website (`URL`), and we couldn't install it because it's not a YP Website.  
+- GTM Script was not found installed on the website (`URL`), and we couldn't install it because it's not a YP Website.
+- GTM Script with ID: (`XXXXX`) was not found installed on the website but were able to install it since it's a YP website.
 
 1. **Customer Instructions:**
 - Please tell the customer to follow the instructions on the following YP site: [https://www.yp-pj-conversions.ca/?GTM=](https://www.yp-pj-conversions.ca/?GTM=).  
@@ -39,7 +43,8 @@
 ### **Conversion Tracking**
 
 1. **Conversion Goal in Google Ads:**  
-- Conversion Goal created in Google Ads: `Goal Name/ID`.  
+- Conversion Goal created in Google Ads: `Goal Name/ID`. 
+- Form Submission Goal status was updated: 
 
 2. **Form Submit Tag Testing:**  
 - The Form Submit tag was fired in Preview Mode: `Details/Results`.  
@@ -93,7 +98,7 @@
 - Conversion Goal created in Google Ads: `Goal Name/ID`.  
 
 2. **Form Submit Tag Testing:**  
-- The Form Submit tag was fired in Preview Mode: `Details/Results`.  
+- The Form Submission tag was fired in Preview Mode: `Details/Results`.  
 
 3. **Conversion Goal Verification:**  
 - Conversion Goal is working fine: `Details/Results`.  
