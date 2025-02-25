@@ -1,99 +1,107 @@
-## Form Tracking Notes Template
+## **Form Tracking Notes Template**
 
-Profile Name: 
+### **Profile Information**
 
-Profile ID: 
-Merchant ID: 
-Asset ID: 
-BTN: 
+**Notes:** 
 
-CID: 
-GTM-
-URL: 
+**Profile Name:** 
 
-#CMUPDATE
-Form Tracking: 
+**Profile ID:** 
+**Merchant ID:** 
+**Asset ID:** 
+**BTN (Business Tracking Number):** 
 
----
-
-## Form Tracking Notes Template (Remarketing)
-
-Profile Name:  
-
-Profile ID:  
-Asset ID:  
-
-CID:  
-GTM-  
-URL:  
-
-#CMUPDATE  
-Remarketing:  
+**CID (Customer ID):** 
+**GTM Container ID:** 
+**URL:** 
 
 ---
 
-- GTM container was created with ID: AAAA and the Form Submission tag was configured.
+### **Form Tracking Configuration**
 
-- We checked the GTM Script with ID: XXXXX and created the Form Submission Tag.
+1. **GTM Container Setup:**
+- GTM container was created with ID: `AAAA` and the Form Submission tag was configured.  
+- Checked GTM Script with ID: `XXXXX` and created the Form Submission Tag.  
+- Checked GTM Script with ID: `XXXXX` and the Form Submission Tag was already created. The trigger on GTM was set with the "Lead" event as per YP Guidelines for Wix Site.  
 
-- Checked GTM Script with ID: XXXXX and the Form Submission Tag was already created and the trigger on GTM was set with the "Lead" event as YP Guidelines for Wix Site.
+1. **GTM Script Installation:**
+- GTM Script was installed on the website (`URL`).  
+- GTM Script was found installed on the website (`URL`).  
+- GTM Script was not installed on the website (`URL`) because it's not from YP.  
+- GTM Script was not found installed on the website (`URL`), and we couldn't install it because it's not a YP Website.  
 
-- GTM Script was installed on the website ().
+1. **Customer Instructions:**
+- Please tell the customer to follow the instructions on the following YP site: [https://www.yp-pj-conversions.ca/?GTM=](https://www.yp-pj-conversions.ca/?GTM=).  
+- Please tell the customer to follow the instructions in the managed .DOC with the name: "GTM-Instructions".  
 
-- GTM Script was found installed on the website ().
+---
 
-- GTM Script was not installed on the website () because it's not from YP.
+### **Conversion Tracking**
 
-- The GTM container was created with ID: AAAA and was not installed on the website () because it's not from YP.
+1. **Conversion Goal in Google Ads:**  
+- Conversion Goal created in Google Ads: `Goal Name/ID`.  
 
-- Checked GTM Script with ID: XXXXX and was not installed on the website () because it's not from YP.
+2. **Form Submit Tag Testing:**  
+- The Form Submit tag was fired in Preview Mode: `Details/Results`.  
 
-- GTM Script was not found installed on the website () and we couldn't install it because it's not a YP Website.
+3. **Conversion Goal Verification:**  
+- Conversion Goal is working fine: `Details/Results`.  
 
-- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=
+---
 
-- Conversion Goal created in Google Ads: 
+### **Tags on GTM**
 
-- The Form Submit tag was fired in Preview Mode: 
+- Tags on GTM: `List of tags configured`.  
 
-- Conversion Goal is working fine: 
+---
 
-- Tags on GTM: 
+### **GTM Script Verification**
 
-- Conversion Goal created in Google Ads: 
+- Checked GTM Script with ID: `XXXXX` and the Form Submission Tag was created.  
+- The GTM Script ID (`KB27J87R`) was properly installed on the website.  
 
-- GTM container was created with ID: AAAA and the Form Submission tag was configured.
+---
 
-- Tags on GTM: 
+## **Remarketing Notes Template**
 
-- GTM Script was not installed on the website () because it's not from YP.
+### **Profile Information**
 
-- Please tell the customer to follow the instructions in the managed .DOC with the name: "GTM-Instructions".
+- **Profile Name:**  
+- **Profile ID:**  
+- **Asset ID:**  
+- **CID (Customer ID):**  
+- **GTM Container ID:**  
+- **URL:**  
 
-- GTM container was created with ID: AAAA and the Form Submission tag was configured.
+---
 
-- GTM Script was installed on the website ().
+### **Remarketing Configuration**
 
-- Conversion Goal created in Google Ads: 
+1. **Remarketing Tag Installation:**  
+- The Remarketing tag was installed on the website (`URL`).  
+- The Remarketing tag was found installed on the website (`URL`).  
 
-- The Form Submit tag was fired in Preview Mode: 
+2. **Remarketing Tag Exceptions:**  
+- The website is a YP LP, so the Remarketing Tag is not required.  
+- The URL in the account is a proxy, and it's not eligible to set up the Remarketing Tag.  
 
-- Conversion Goal is working fine: 
+---
 
-- The Remarketing tag was installed on the website: 
+### **Conversion Tracking (Remarketing)**
 
-- The Remarketing tag was found installed on the website: 
+1. **Conversion Goal in Google Ads:**  
+- Conversion Goal created in Google Ads: `Goal Name/ID`.  
 
-- The website is a YP LP, so the Remarketing Tag is not required.
+2. **Form Submit Tag Testing:**  
+- The Form Submit tag was fired in Preview Mode: `Details/Results`.  
 
-- The URL in the account is a proxy, and it's not eligible to set up the Remarketing Tag.
+3. **Conversion Goal Verification:**  
+- Conversion Goal is working fine: `Details/Results`.  
 
-- Checked GTM Script with ID: XXXXX and the Form Submission Tag was created.  
+---
 
-- Conversion Goal created in Google Ads:  
+### **GTM Container Setup (Remarketing)**
 
-- The Form Submit tag was fired in Preview Mode:  
+- GTM container was created with ID: `AAAA` and the Form Submission tag was configured.  
+- GTM Script was installed on the website (`URL`).  
 
-- Conversion Goal is working fine:
-
-- The GTM Script ID (KB27J87R) was properly installed on the website.

@@ -619,3 +619,70 @@ Form Tracking:
 
 ---
 
+Notes: Hi team, pls be so kind help me enabled a new CTN for the Pmax campaign. Thank you in advance!
+
+Profile Name: Zex Toronto Turbochargers & Superchargers
+
+Profile ID: 12045
+Merchant ID: 101912123
+Asset ID: CAMS_33e6d281-8aa7-443d-ad96-2807ba585d26
+BTN: 416-757-0123
+CTN:​​ 800-461-7402
+
+CID: 205-004-6649
+JSRW: zex-toronto-pmax
+GTM-KQKQFMV
+URL: [https://www.zextoronto.com/](https://www.zextoronto.com/)
+
+#CMUPDATE 
+Call Tracking: 
+- Based on the targeted location, a Toll-Free CTN (800-461-7402) was procured, configured, and forwarded to BTN (416-757-0123) on both Marchex and Skai.
+- US Calls are being blocked.
+- The website (https://www.zextoronto.com) uses the HTTPS protocol, which is secure. Therefore, a JSRW was created with the tracking parameter ?_vsrefdom=zex-toronto-pmax and properly configured.
+- Checked the GTM container with ID: KQKQFMV and the Marchex tag didn't have the best naming convention, therefore, it was changed from 'Custom HTML' to 'Marchex - JSRW'.
+- Previous CTN wasn't swapping on the website, checked the current JSRW configuration, checked the JSRW was added to GTM as a custom HTML tag, and ensured the GTM script was properly installed on the website. Created a ticket for Marchex support to report this issue and get further assistance.
+
+---
+
+Notes: Hi team! can you help me Troubleshoot call tracking to this account, please? (YP Website) The number is not changing on the websiteThanks in advance.
+
+Profile Name: Lakewood Interiors
+
+Profile ID: 15360
+Merchant ID: 3406569
+Asset ID: CAMS_f96791ed-ea9f-4c50-8e3a-9297bd5f2590
+BTN: 204-797-8656
+CTN:​​ 204-809-4077
+
+CID: 302-019-4397
+JSRW: ​lake-wood-interiors	
+GTM-NKGQSPN
+URL: [https://www.lakewoodinteriors.ca/?_vsrefdom=lake-wood-interiors](https://www.lakewoodinteriors.ca/?_vsrefdom=lake-wood-interiors)
+
+#CMUPDATE 
+Call Tracking: 
+
+---
+
+**Notes:** Hello, please add form tracking, thank you.
+
+**Profile Name:** Indus Automation Inc
+
+**Profile ID:** 12488
+**Merchant ID:** 2328387
+**Asset ID:** 1-7411827523
+**BTN (Business Tracking Number):** 204-943-0050
+
+**CID (Customer ID):** 795-939-0535
+**GTM Container ID:** GTM-MWDTM5H
+**URL:** [https://www.indusautomation.com/contact-us](https://www.indusautomation.com/contact-us)
+
+#CMUPDATE 
+Form Tracking:
+- Conversion Goal created in Google Ads: https://prnt.sc/YsmZWL_ydvvY
+- Checked GTM Script with ID: MWDTM5H and created the Form Submission Tag.
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/HBCw5wV6ux5h
+- Configured conversion goal in Skai conversion columns.
+
+---
+
