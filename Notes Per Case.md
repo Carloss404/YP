@@ -807,3 +807,71 @@ Form Tracking:
 - The Form Submission tag was fired in Preview Mode: https://prnt.sc/paqIwURXNnJM
 - Conversion Goal created in Google Ads: https://prnt.sc/3tCLvgwcuRFP 
 
+---
+
+**Notes:** 
+- Hi team, pls be so kind to help me add call tracking. Thank you in advance! (Ps. the client has another account using the same website, advertising different services).
+- Hi team, pls be so kind to help me add form tracking. Thank you in advance! (Ps. the client has another account using the same website, advertising different services).
+
+**Profile Name:** Embrace Wellness
+
+**Profile ID:** 18098
+**Merchant ID:** 104648117
+**Asset ID:** CAMS_b5ce900d-64ea-4095-b4fb-03c400cb2d7b
+**BTN (Business Tracking Number):** 403-992-9151
+**CTN (Call Tracking Number):** 
+
+**CID (Customer ID):** 691-138-3550
+**JSRW (JavaScript Rewrite):** 
+**GTM Container ID:** GTM-NB5VSJCD
+**URL:** [https://embracephysio.ca/the-team/dr-christine-lund-dac-acupuncturist/](https://embracephysio.ca/the-team/dr-christine-lund-dac-acupuncturist/)
+
+#CMUPDATE 
+Call Tracking:
+
+
+#CMUPDATE 
+Form Tracking:
+- The GTM Script ID (NB5VSJCD) was found installed on the website.
+- We checked the GTM script with ID: NB5VSJCD and created a new Form Submission Tag.
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/nRKUQxEzdRvM
+- Conversion Goal created in Google Ads: https://prnt.sc/zbduMefYdvF4
+- The Form Submission goal was configured in the Skai conversion columns.
+
+---
+
+**Notes:** 
+- Hi team, facing this campaign renewal, pls be so kind to help me TB call tracking. Thank you in advance!
+- Hi team, facing this campaign renewal, pls be so kind to help me add form tracking. Thank you in advance!
+
+**Profile Name:** Cole Harbour Physio and Rehabilitation Centre
+
+**Profile ID:** 16753
+**Merchant ID:** 4370721
+**Asset ID:** CAMS_3eeed544-d94c-41d0-911b-c23f6758ecfb
+**BTN (Business Tracking Number):** 902-462-6492
+**CTN (Call Tracking Number):** 855-205-1059
+
+**CID (Customer ID):** 342-974-3099
+**JSRW (JavaScript Rewrite):** ​cole-harbour-physio
+**GTM Container ID:** GTM-MHDBWMQR
+**URL:** [https://coleharbourphysio.ca/contact/](https://coleharbourphysio.ca/contact/)
+
+#CMUPDATE 
+Call Tracking:
+- GTM Script was not found installed on the website (https://coleharbourphysio.ca), and we couldn't install it because it's not a YP Website.
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=MHDBWMQR
+- Checked the Marchex and Skai configuration and it was properly configured.
+- Conversion goal in Google Ads shows as "Inactive" since the GTM Script hasn't been installed on the website, but once the GTM Script is installed and activity is recorded on the website, the status will be fixed.
+
+
+#CMUPDATE 
+Form Tracking:
+- GTM Script was not found installed on the website (https://coleharbourphysio.ca), and we couldn't install it because it's not a YP Website.
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=MHDBWMQR
+- Checked GTM Script with ID: MHDBWMQR and created the Form Submission Tag.
+- Conversion Goal created in Google Ads: https://prnt.sc/KLnQcfbl0HFo
+- Conversion goal was configured in the Skai conversion columns.
+
+---
+

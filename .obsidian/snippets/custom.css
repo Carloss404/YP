@@ -1,0 +1,106 @@
+/* [Cursor] custom ninja */
+/* only apply if ninja cursor plugin is installed */
+
+/* disable ninja cursor when selection (to avoid weird position) */
+body:has(.cm-cursor-primary) .x-cursor {
+  display: none;
+}
+
+/* style only on source mode */
+body:has(.x-cursor):has(.workspace-leaf.mod-active > [data-mode="source"]) {
+  /* --my-cursor-color: #ff31f5; */
+  --my-cursor-color: hsl(
+    var(--accent-h),
+    calc(var(--accent-s) + 100%),
+    calc(var(--accent-l) - 5%)
+  );
+  --ninja-cursor-height: 10px;
+  --ninja-cursor-top: calc((var(--ninja-cursor-height) / -2) + 1px);
+  --ninja-cursor-width: 3px;
+  --ninja-cursor-blink-speed: 1.2s;
+
+  /* Remove normal cursor animation if multi-cursors */
+  .cm-cursorLayer:has(.cm-cursor-secondary) {
+    animation: none !important;
+  }
+
+  /* Customize the default caret when text is selected or multi-cursors */
+  .cm-s-obsidian .cm-cursor,
+  .cm-s-obsidian .cm-dropCursor {
+    border-left-color: var(--my-cursor-color);
+    border-left-width: var(--ninja-cursor-width);
+  }
+
+  .x-cursor {
+    background: var(--my-cursor-color);
+    opacity: 1;
+    width: var(--ninja-cursor-width);
+    left: -1px;
+    height: calc(var(--ninja-cursor-height) + var(--cursor-height));
+    max-height: calc(var(--font-ui-large) * 2);
+    top: calc(var(--ninja-cursor-top) - var(--header-height));
+    /* transition: all 80ms !important; */
+    transition: opacity;
+  }
+
+  /* Disable movement effect */
+  .cursorWrapper .x-cursor::after {
+    display: none;
+  }
+
+  /* Blinking */
+  .cursorWrapper .x-cursor0 {
+    animation: blink0 var(--ninja-cursor-blink-speed)
+      var(--ninja-cursor-blink-speed) both infinite;
+  }
+  .cursorWrapper .x-cursor1 {
+    animation: blink1 var(--ninja-cursor-blink-speed)
+      var(--ninja-cursor-blink-speed) both infinite;
+  }
+
+  /* Hides Regular Cursor when Ninja Cursor Installed */
+  .cm-editor * {
+    caret-color: transparent;
+  }
+}
+
+body:has(.x-cursor):has(.workspace-leaf.mod-active > [data-mode="preview"])
+  .x-cursor {
+  display: none;
+}
+
+@keyframes blink1 {
+  0% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+  95% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.3;
+  }
+}
+
+@keyframes blink0 {
+  0% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+  95% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.3;
+  }
+}

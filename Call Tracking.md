@@ -78,7 +78,7 @@ Call Tracking:
 - GTM Script was not found installed on the website (`URL`), and we couldn't install it because it's not a YP Website.
 
 5. **Customer Instructions:**  
-- Please tell the customer to follow the instructions on the following YP site: [https://www.yp-pj-conversions.ca/?GTM=](https://www.yp-pj-conversions.ca/?GTM=)
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=
 
 ---
 

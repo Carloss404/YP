@@ -47,7 +47,7 @@ Form Tracking:
 - Form Submission Goal status was updated: 
 
 2. **Form Submit Tag Testing:**  
-- The Form Submit tag was fired in Preview Mode: `Details/Results`.  
+- The Form Submission tag was fired in Preview Mode: `Details/Results`.  
 
 3. **Conversion Goal Verification:**  
 - Conversion Goal is working fine: `Details/Results`.  
@@ -63,7 +63,7 @@ Form Tracking:
 ### **GTM Script Verification**
 
 - Checked GTM Script with ID: `XXXXX` and the Form Submission Tag was created.  
-- The GTM Script ID (`KB27J87R`) was properly installed on the website.  
+- The GTM Script ID (`xxxxx`) was properly installed on the website.  
 
 ---
 
