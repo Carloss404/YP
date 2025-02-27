@@ -35,7 +35,7 @@ Form Tracking:
 - GTM Script with ID: (`XXXXX`) was not found installed on the website but were able to install it since it's a YP website.
 
 1. **Customer Instructions:**
-- Please tell the customer to follow the instructions on the following YP site: [https://www.yp-pj-conversions.ca/?GTM=](https://www.yp-pj-conversions.ca/?GTM=).  
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=
 - Please tell the customer to follow the instructions in the managed .DOC with the name: "GTM-Instructions".  
 
 ---

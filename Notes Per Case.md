@@ -819,16 +819,19 @@ Form Tracking:
 **Merchant ID:** 104648117
 **Asset ID:** CAMS_b5ce900d-64ea-4095-b4fb-03c400cb2d7b
 **BTN (Business Tracking Number):** 403-992-9151
-**CTN (Call Tracking Number):** 
+**CTN (Call Tracking Number):** 403-800-7055
 
 **CID (Customer ID):** 691-138-3550
-**JSRW (JavaScript Rewrite):** 
+**JSRW (JavaScript Rewrite):** embrace-physio-new
 **GTM Container ID:** GTM-NB5VSJCD
 **URL:** [https://embracephysio.ca/the-team/dr-christine-lund-dac-acupuncturist/](https://embracephysio.ca/the-team/dr-christine-lund-dac-acupuncturist/)
 
 #CMUPDATE 
 Call Tracking:
-
+- Based on the targeted location, a Local CTN (403-800-7055) was procured, configured, imported, and forwarded to BTN (403-992-9151) on Marchex and Skai.
+- The website (https://embracephysio.ca/the-team/dr-christine-lund-dac-acupuncturist/) uses the HTTPS protocol, which is secure. Therefore, a JSRW was created with the tracking parameter ?_vsrefdom=embrace-physio-new and properly configured.
+- Checked the GTM container with ID: NB5VSJCD and the Marchex tag was properly set up with all 3 triggers.
+- Enabled Signal Enhancement from Skai.
 
 #CMUPDATE 
 Form Tracking:
@@ -872,6 +875,54 @@ Form Tracking:
 - Checked GTM Script with ID: MHDBWMQR and created the Form Submission Tag.
 - Conversion Goal created in Google Ads: https://prnt.sc/KLnQcfbl0HFo
 - Conversion goal was configured in the Skai conversion columns.
+
+---
+
+**Notes:** Hello team, please add form tracking, thank you
+
+**Profile Name:** Woodland Lumber & Building Supplies
+
+**Profile ID:** 18109
+**Merchant ID:** 1731886
+**Asset ID:** CAMS_67dcb175-1a36-41b5-8f1a-ef36ecae2b91
+**BTN (Business Tracking Number):** 780-727-2964
+
+**CID (Customer ID):** 8126179343
+**GTM Container ID:** GTM-KNZTLJHB
+**URL:** [https://www.woodlandlumber.com/](https://www.woodlandlumber.com/)
+
+#CMUPDATE 
+Form Tracking:
+- GTM container was created with ID: KNZTLJHB and the Form Submission tag was configured.  
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=KNZTLJHB
+- Conversion Goal created in Google Ads: https://prnt.sc/tBLlAEHGqfJ4
+- Conversion Goal configured in the Skai conversion columns.
+
+---
+
+**Notes:** Hi team! Can you please add call tracking and share the GTM instructions? Thank you!
+
+**Profile Name:** Chestermere Heating & Cooling Ltd
+
+**Profile ID:** 17429
+**Merchant ID:** 100681557
+**Asset ID:** CAMS_71bbfc6d-d409-4721-821f-8885765fc8b3
+**BTN (Business Tracking Number):** 403-272-9976
+**CTN (Call Tracking Number):** 403-879-1772
+
+**CID (Customer ID):** 9070110660
+**JSRW (JavaScript Rewrite):** i-heat-chestermere
+**GTM Container ID:** GTM-5F59BVMH
+**URL:** [https://iheatchestermere.com/contact/](https://iheatchestermere.com/contact/)
+
+#CMUPDATE 
+Call Tracking:
+- GTM Script was not found installed on the website (https://iheatchestermere.com), and we couldn't install it because it's not a YP Website.
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=5F59BVMH
+- Based on the targeted location, a Local CTN (403-879-1772) was procured, configured, imported, and forwarded to BTN (403-272-9976) on Marchex and Skai.
+- The website (https://iheatchestermere.com) uses the HTTPS protocol, which is secure. Therefore, a JSRW was created with the tracking parameter ?_vsrefdom=i-heat-chestermere and properly configured.
+- Checked the GTM container with ID: 5F59BVMH and set up the Marchex tag with all 3 triggers.
+- Enabled Signal Enhancement from Skai.
 
 ---
 
