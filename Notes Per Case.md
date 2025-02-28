@@ -1028,4 +1028,47 @@ Call Tracking:
 
 ---
 
-> > > > > > > ffc774e903ba6d9821bf22adf1a22d4e4eae6410
+**Notes:** Hi team, pls be so kind to help me TB form tracking. Thank you in advance!
+
+**Profile Name:** Victoria Construction & Maintenance
+
+**Profile ID:** 17895
+**Merchant ID:** 101230845
+**Asset ID:** CAMS_3285f6f9-f4aa-4995-87c6-c4af9069934f
+**BTN (Business Tracking Number):** 807-285-3772
+
+**CID (Customer ID):** 276-840-8746
+**GTM Container ID:** GTM-M3MGMP6G
+**URL:** [https://www.victoriaconstruction.net/](https://www.victoriaconstruction.net/)
+
+#CMUPDATE 
+Form Tracking:
+- GTM Script was not found installed on the website (https://www.victoriaconstruction.net/), and we couldn't install it because it's not a YP Website.
+- Please tell the customer to follow the instructions on the following YP site: https://www.yp-pj-conversions.ca/?GTM=M3MGMP6G
+- Checked GTM Script with ID: M3MGMP6G and updated the Form Submission Tag.
+- Form Submission Goal from Google Ads is properly configured with GTM, once the GTM script is installed on the website, the conversion goal will start recording data, and the status will be updated.
+
+---
+
+**Notes:** Hi team, the form goal in GAds is inactive, please review it. Thank you!
+
+**Profile Name:** John's Chimney Service [201708221710]
+
+**Profile ID:** 2572
+**Merchant ID:** 4842306
+**Asset ID:** 1-5549064842
+**BTN (Business Tracking Number):** 
+
+**CID (Customer ID):** 701-604-9157
+**GTM Container ID:** GTM-WZBK6WC
+**URL:** https://www.johnschimneyservice.com/contact-us
+
+#CMUPDATE 
+Form Tracking:
+- Checked GTM Script with ID: WZBK6WC and updated the Form Submission Tag. The trigger on GTM was set with the "lead" event as per YP Guidelines for Wix Sites.
+- The Form Submission tag was fired in Preview Mode: https://prnt.sc/j1lTRQLsXY4q
+- Form Submission Goal status was updated in Google Ads: https://prnt.sc/IWocggXFXNet
+- Conversion goal is now properly configured.
+
+---
+
